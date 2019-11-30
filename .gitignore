@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.dll
+/.vs/EntityFrameworkDateQuery/v16/Server/sqlite3
+/bin/Debug
+/obj/Debug
+/packages/EntityFramework.6.3.0
